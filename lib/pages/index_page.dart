@@ -73,6 +73,5 @@ class _IndexPageState extends State<IndexPage> with AutomaticKeepAliveClientMixi
   }
 
   @override
-  // TODO: implement wantKeepAlive
   bool get wantKeepAlive => true;
 }
